@@ -72,13 +72,31 @@ Pathogen systems represented in this work include:
 
 The following papers illustrate different aspects of vector-borne disease ecology explored in this work.
 
+---
+
 ### Vector exposure and immunological biomarkers
 
-- https://academic.oup.com/jid/article/215/3/396/2632209  
-- https://pmc.ncbi.nlm.nih.gov/articles/PMC6090370/  
-- https://link.springer.com/article/10.1186/s13071-018-3224-7  
+Ya-Umphan P., Cerqueira D., Parker D.M., Cottrell G., Poinsignon A., Remoue F., Brengues C., Chareonviriyaphap T., Nosten F., Corbel V. (2017).  
+**Use of an Anopheles salivary biomarker to assess malaria transmission risk along the Thailand–Myanmar border.**  
+*Journal of Infectious Diseases*, 215(3): 396–404.  
+https://doi.org/10.1093/infdis/jiw543
 
-These studies examine how **human antibody responses to mosquito saliva** can serve as biomarkers of exposure to vector bites and malaria transmission risk.
+Ya-Umphan P., Cerqueira D., Cottrell G., Parker D.M., Fowkes F., Nosten F., Corbel V. (2018).  
+**Anopheles salivary biomarker as a proxy for estimating Plasmodium falciparum malaria exposure on the Thailand–Myanmar border.**  
+*American Journal of Tropical Medicine and Hygiene*, 99(2): 350–356.  
+https://doi.org/10.4269/ajtmh.18-0081
+
+Manning J.E., Chea S., Parker D.M., Bohl J.A., Lay S., Mateja A., Man S., Nhek S., Ponce A., Sreng S., Kong D., Kimsan S., Meneses C., Fay M.P., Suon S., Huy R., Lon C., Leang R., Oliveira F. (2021).  
+**Development of inapparent dengue associated with increased antibody levels to Aedes aegypti salivary proteins: a longitudinal dengue cohort in Cambodia.**  
+*Journal of Infectious Diseases*.  
+https://doi.org/10.1093/infdis/jiab541
+
+Parker D.M., Medina C., Bohl J.A., Lon C., Chea S., Lay S., Kong D., Nhek S., Man S., Doehl J.S.P., Leang R., Kry H., Rekol H., Oliveira F., Minin V.M., Manning J.E. (2023).  
+**Determinants of exposure to Aedes mosquitoes: a comprehensive geospatial analysis in peri-urban Cambodia.**  
+*Acta Tropica*, 239: 106829.  
+https://doi.org/10.1016/j.actatropica.2023.106829
+
+These studies examine how **human antibody responses to mosquito saliva** can serve as biomarkers of exposure to vector bites and malaria or arbovirus transmission risk.
 
 ---
 
@@ -88,37 +106,41 @@ Serological studies provide another important lens on vector-borne disease ecolo
 
 These approaches complement entomological surveillance and case reporting by revealing patterns of past infection that may not appear in routine surveillance data.
 
-- https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013357  
+Parker D.M., Haileselassie W., Hailemariam T.S., Workenh A., Workineh S., Wang X., Lee M.C., Yan G. (2025).  
+**High seroprevalence of antibodies to dengue, chikungunya, and Zika viruses in Dire Dawa, Ethiopia: a cross-sectional survey.**  
+*PLOS Neglected Tropical Diseases*.  
+https://doi.org/10.1371/journal.pntd.0013357
 
 ---
 
-### Environmental and spatial drivers of transmission
+### Disease ecology
 
-- https://www.pnas.org/doi/abs/10.1073/pnas.2115285119  
-- https://www.sciencedirect.com/science/article/pii/S0001706X23000165  
-- https://link.springer.com/article/10.1186/s40249-021-00837-0  
-- https://link.springer.com/article/10.1186/s13071-025-06967-w  
+Roberts T., Parker D.M., Bulterys P.L., Rattanavong S., Elliott I., Phommasone K., Mayxay M., Chansamouth V., Robinson M.T., Blacksell S.D., Newton P.N. (2021).  
+**A spatio-temporal analysis of scrub typhus and murine typhus in Laos: implications from changing landscapes and climate.**  
+*PLOS Neglected Tropical Diseases*, 15(8): e0009685.  
+https://doi.org/10.1371/journal.pntd.0009685
 
-These papers examine how **environmental conditions, landscapes, and spatial processes** shape the ecology and transmission of vector-borne diseases.
+Rattanavong S., Dubot-Pérès A., Mayxay M., Vongsouvath M., Lee S.J., Cappelle J., Newton P.N., Parker D.M. (2020).  
+**Spatial epidemiology of Japanese encephalitis virus and other infections of the central nervous system in Lao PDR (2003–2011): a retrospective analysis.**  
+*PLOS Neglected Tropical Diseases*, 14(5): e0008333.  
+https://doi.org/10.1371/journal.pntd.0008333
 
----
+Christofferson R.C., Parker D.M., Overgaard H.J., Hii J., Devine G., Wilcox B.A., Nam V.S., Abubakar S., Boyer S., Boonnak K., Whitehead S.S., Huy R., Rithea L., Sochantha T., Wellems T.E., Valenzuela J.G. (2020).  
+**Current vector research challenges in the Greater Mekong Subregion for dengue, malaria, and other vector-borne diseases: a report from a multi-sectoral workshop.**  
+*PLOS Neglected Tropical Diseases*, 14(7): e0008302.  
+https://doi.org/10.1371/journal.pntd.0008302
 
-### Disease systems and transmission ecology
+Bohl J.A., Lay S., Chea S., Ahyong V., Parker D.M., Gallagher S., Fintzi J., Man S., Ponce A., Sreng S., Kong D., Oliveira F., Kalantar K., Tan M., Fahsbender L., Sheu J., Neff N., Detweiler A.M., Yek C., Ly S., Sath R., Huch C., Kry H., Leang R., Huy R., Lon C., Tato C.M., DeRisi J.L., Manning J.E. (2022).  
+**Discovering disease-causing pathogens in resource-scarce Southeast Asia using a global metagenomic pathogen monitoring system.**  
+*Proceedings of the National Academy of Sciences*, 119(11): e2115285119.  
+https://doi.org/10.1073/pnas.2115285119
 
-- https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0009685  
-- https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008333  
-- https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008302  
+Rijal K.R., Adhikari B., Ghimire B., Dhungel B., Pyakurel U.R., Shah P., Bastola A., Lekhak B., Banjara M.R., Pandey B.D., Parker D.M., Ghimire P. (2021).  
+**Epidemiology of dengue virus infections in Nepal, 2006–2019.**  
+*Infectious Diseases of Poverty*, 10: 52.  
+https://doi.org/10.1186/s40249-021-00837-0
 
-These studies link ecological conditions and human exposure to patterns of infection and disease.
-
----
-
-### Conceptual perspectives
-
-- https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3857656  
-
-Work exploring broader conceptual frameworks related to vector-borne disease ecology.
-
+These studies link **environmental conditions, vector ecology, and human exposure** to patterns of infection and disease.
 ---
 
 ## Methods and tools
