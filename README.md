@@ -95,6 +95,7 @@ Parker D.M., Medina C., Bohl J.A., Lon C., Chea S., Lay S., Kong D., Nhek S., Ma
 **Determinants of exposure to Aedes mosquitoes: a comprehensive geospatial analysis in peri-urban Cambodia.**  
 *Acta Tropica*, 239: 106829.  
 https://doi.org/10.1016/j.actatropica.2023.106829
+
 Code and analysis:
 [https://github.com/parker-group/AedesExposureCambodia](https://github.com/CatalinaMedina/aedes-serology)
 
@@ -122,6 +123,7 @@ Parker D.M., Haileselassie W., Hailemariam T.S., Workenh A., Workineh S., Wang X
 **High seroprevalence of antibodies to dengue, chikungunya, and Zika viruses in Dire Dawa, Ethiopia: a cross-sectional survey.**  
 *PLOS Neglected Tropical Diseases*.  
 https://doi.org/10.1371/journal.pntd.0013357
+
 Code and analysis:  
 https://github.com/parker-group/DireDawa_Seroepi
 
