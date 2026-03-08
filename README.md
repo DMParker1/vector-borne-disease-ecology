@@ -104,12 +104,7 @@ These studies examine how **human antibody responses to mosquito saliva** can se
   <img src="figures/anopheles_saliva_map.png" width="650">
 </p>
 
-*Map indicating human IgG responses to **Anopheles mosquito saliva** for a study village during the **wet season (left)** and **dry season (right)** along the Thailand–Myanmar border.  
-The smoothed layer represents relative intensities of IgG responses, ranging from **low (dark blue)** to **medium (yellow)** to **high (dark red)**. Houses are shown as grey points, and clusters of neighbors with higher-than-expected IgG values are indicated by green squares.  
-
-Human biting rates of primary malaria vectors at mosquito catch sites are shown as **dark orange graduated cylinders**. Sites where one or more primary vector mosquitoes were found carrying **malaria sporozoites** are marked with a **black cross**.  
-
-See: Ya-Umphan P. et al. (2017) *Use of an Anopheles salivary biomarker to assess malaria transmission risk along the Thailand–Myanmar border*. Journal of Infectious Diseases 215(3):396–404.  
+*Map indicating human IgG responses to **Anopheles mosquito saliva** for a study village during the **wet season (left)** and **dry season (right)** along the Thailand–Myanmar border. The smoothed layer represents relative intensities of IgG responses, ranging from **low (dark blue)** to **medium (yellow)** to **high (dark red)**. Houses are shown as grey points, and clusters of neighbors with higher-than-expected IgG values are indicated by green squares. Human biting rates of primary malaria vectors at mosquito catch sites are shown as **dark orange graduated cylinders**. Sites where one or more primary vector mosquitoes were found carrying **malaria sporozoites** are marked with a **black cross**.  See: Ya-Umphan P. et al. (2017) *Use of an Anopheles salivary biomarker to assess malaria transmission risk along the Thailand–Myanmar border*. Journal of Infectious Diseases 215(3):396–404.  
 https://doi.org/10.1093/infdis/jiw543*
 
 ---
@@ -129,7 +124,8 @@ https://doi.org/10.1371/journal.pntd.0013357
   <img src="figures/dire_dawa_serology_fig1.png" width="650">
 </p>
 
-*Serological evidence of exposure to dengue, chikungunya, and Zika viruses in Dire Dawa, Ethiopia.*
+*Age-specific seropositivity for **dengue, chikungunya, and Zika viruses** in Dire Dawa, Ethiopia. The **top panels show IgG seropositivity**, reflecting cumulative exposure to these arboviruses over time. The **bottom panels show IgM seropositivity**, indicating evidence of more recent infection. Age-stratified serological profiles provide insight into the **historical circulation and transmission dynamics of arboviruses**, particularly in settings where routine surveillance and laboratory confirmation are limited. See: Parker D.M. et al. (2025) *High seroprevalence of antibodies to dengue, chikungunya, and Zika viruses in Dire Dawa, Ethiopia: a cross-sectional survey.* PLOS Neglected Tropical Diseases.  
+https://doi.org/10.1371/journal.pntd.0013357*
 
 ---
 
