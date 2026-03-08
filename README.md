@@ -1,4 +1,4 @@
-# Vector-Borne Disease Ecology — Daniel M. Parker
+# Vector-Borne Disease Ecology
 
 This repository curates research and conceptual framing related to the **ecological systems that shape vector-borne disease transmission**.
 
@@ -41,65 +41,25 @@ By combining environmental data, spatial epidemiology, entomology, and serologic
 
 ---
 
-## Conceptual model
-
-Vector-borne disease transmission emerges from the interaction between **environmental systems, vectors, and human populations**.
-
-```mermaid
-flowchart TB
-
-  subgraph ENV["Environmental Systems"]
-    CLIMATE["Climate"]
-    LAND["Land use / land cover"]
-    ECO["Ecological conditions"]
-  end
-
-  subgraph VEC["Vector Ecology"]
-    MOSQ["Mosquito abundance"]
-    SPEC["Species composition"]
-    BEHAV["Vector behavior"]
-  end
-
-  subgraph HUMAN["Human Ecology"]
-    MOB["Human mobility"]
-    SET["Settlement patterns"]
-    EXP["Exposure to vector bites"]
-  end
-
-  subgraph PATH["Pathogen Transmission"]
-    INF["Infection"]
-    DIS["Disease patterns"]
-  end
-
-  ENV --> VEC
-  ENV --> HUMAN
-  VEC --> EXP
-  HUMAN --> EXP
-  EXP --> INF
-  INF --> DIS
-```
-
-Understanding transmission therefore requires integrating observations across multiple layers of the system.
-
----
-
 ## Major research themes
 
 ### Vector ecology
 
-Studies of mosquito ecology and other vector systems, including field entomology and environmental drivers of vector abundance.
+Studies of mosquito ecology and other vector systems, including field entomology and environmental drivers of vector abundance and distribution.
 
 ### Human exposure to vectors
 
 Research using **serological markers such as antibodies to mosquito saliva** to measure exposure to mosquito bites and other vectors.
 
-### Vector-borne disease risk
+### Serological evidence of infection
 
-Work linking ecological conditions, environmental drivers, and human exposure to patterns of infection and disease.
+Serological surveys provide insights into **population-level exposure to vector-borne pathogens**, revealing patterns of past infection that may not be visible in routine surveillance data.
 
-### Pathogen systems
+### Disease patterns and transmission
 
-Examples of diseases studied in this work include:
+Research linking environmental conditions, human exposure, and ecological drivers to patterns of infection and disease.
+
+Pathogen systems represented in this work include:
 
 - malaria  
 - dengue, chikungunya, and other Aedes-borne viruses  
@@ -110,7 +70,7 @@ Examples of diseases studied in this work include:
 
 ## Selected papers
 
-The following papers illustrate different aspects of vector-borne disease ecology explored in my work.
+The following papers illustrate different aspects of vector-borne disease ecology explored in this work.
 
 ### Vector exposure and immunological biomarkers
 
@@ -122,7 +82,17 @@ These studies examine how **human antibody responses to mosquito saliva** can se
 
 ---
 
-### Spatial and ecological drivers of vector-borne disease
+### Serological surveillance of vector-borne pathogens
+
+Serological studies provide another important lens on vector-borne disease ecology by measuring **population-level exposure to pathogens**.
+
+These approaches complement entomological surveillance and case reporting by revealing patterns of past infection that may not appear in routine surveillance data.
+
+- https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0013357  
+
+---
+
+### Environmental and spatial drivers of transmission
 
 - https://www.pnas.org/doi/abs/10.1073/pnas.2115285119  
 - https://www.sciencedirect.com/science/article/pii/S0001706X23000165  
@@ -149,15 +119,14 @@ These studies link ecological conditions and human exposure to patterns of infec
 
 Work exploring broader conceptual frameworks related to vector-borne disease ecology.
 
-
 ---
 
 ## Methods and tools
 
 Some of the analytical approaches used in this work are documented in related repositories:
 
-- https://github.com/DMParker1/earth-observation-hub  
-- https://github.com/DMParker1/activity-spaces  
+- [earth-observation-howto](https://github.com/parker-group/earth-observation-howto)  
+- [SDEtool](https://github.com/parker-group/SDEtool)  
 
 ---
 
@@ -170,7 +139,7 @@ These repositories document other parts of my research program:
 - [METF-mapping](https://github.com/DMParker1/METF-mapping) — Mapping malaria posts & community engagement.  
 - [tMDA-program](https://github.com/DMParker1/tmda-program) — Targeted MDA trials & modeling.  
 - [early-dx-tx](https://github.com/DMParker1/early-dx-tx) — Early access to malaria diagnosis/treatment.  
-- [tm-border-mch](https://github.com/DMParker1/tm-border-mch) — Maternal & child health on the Thai–Myanmar border. 
+- [tm-border-mch](https://github.com/DMParker1/tm-border-mch) — Maternal & child health on the Thai–Myanmar border.
 
 ---
 
@@ -178,7 +147,3 @@ These repositories document other parts of my research program:
 
 This repository does not contain sensitive data.  
 Requests for data from specific projects should be directed to the relevant study teams or institutions.
-
----
-
-© Daniel M. Parker — See individual repositories for license details.
