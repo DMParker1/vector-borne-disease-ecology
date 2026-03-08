@@ -97,10 +97,8 @@ Parker D.M., Medina C., Bohl J.A., Lon C., Chea S., Lay S., Kong D., Nhek S., Ma
 https://doi.org/10.1016/j.actatropica.2023.106829
 
 Code and analysis:
-[https://github.com/parker-group/AedesExposureCambodia](https://github.com/CatalinaMedina/aedes-serology)
+[https://github.com/CatalinaMedina/AedesExposureCambodia](https://github.com/CatalinaMedina/aedes-serology)
 
-
-These studies examine how **human antibody responses to mosquito saliva** can serve as biomarkers of exposure to vector bites and malaria or arbovirus transmission risk.
 
 These studies examine how **human antibody responses to mosquito saliva** can serve as biomarkers of exposure to vector bites and malaria or arbovirus transmission risk.
 
