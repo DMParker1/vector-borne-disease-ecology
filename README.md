@@ -179,7 +179,7 @@ Some of the analytical approaches used in this work are documented in related re
 ## Related repositories
 
 These repositories document other parts of my research program:
-
+- [research-trajectory-hub](https://github.com/DMParker1/research-trajectory-hub) — Overview of my research trajectory and linked repositories.
 - [earth-observation-hub](https://github.com/DMParker1/earth-observation-hub) — How EO became central to my research.  
 - [activity-spaces](https://github.com/DMParker1/activity-spaces) — Multi-place exposure and health relevance.  
 - [METF-mapping](https://github.com/DMParker1/METF-mapping) — Mapping malaria posts & community engagement.  
