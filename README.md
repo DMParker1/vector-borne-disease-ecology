@@ -141,6 +141,8 @@ Rijal K.R., Adhikari B., Ghimire B., Dhungel B., Pyakurel U.R., Shah P., Bastola
 https://doi.org/10.1186/s40249-021-00837-0
 
 These studies link **environmental conditions, vector ecology, and human exposure** to patterns of infection and disease.
+
+
 ---
 
 ## Methods and tools
