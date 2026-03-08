@@ -1,8 +1,8 @@
 # Vector-Borne Disease Ecology
 
-This repository curates research and conceptual framing related to the **ecological systems that shape vector-borne disease transmission**.
+This repository curates research and conceptual framing related to the ecological systems that shape vector-borne disease transmission.
 
-My work in this area examines how **vectors, environments, human exposure, and pathogens interact to shape disease risk**. The goal is to better understand transmission systems using a combination of:
+My work in this area examines how vectors, environments, human exposure, and pathogens interact to shape disease risk. The goal is to better understand transmission systems using a combination of:
 
 - field epidemiology  
 - spatial epidemiology  
@@ -17,7 +17,7 @@ The diseases represented here include malaria, Aedes-borne viruses, and ricketts
 
 ## Why this repository exists
 
-While some of my other repositories document **operational malaria programs and interventions**, the work collected here focuses primarily on **research into the ecological systems that generate transmission**.
+While some of my other repositories document operational malaria programs and interventions, the work collected here focuses primarily on research into the ecological systems that generate transmission.
 
 Three related ideas motivate much of this work.
 
@@ -35,7 +35,7 @@ For this reason, some of this work explores **immunological biomarkers of vector
 
 ### 3. Environmental drivers shape transmission systems
 
-Environmental conditions influence both **vector populations and human exposure**, and therefore strongly shape patterns of disease.
+Environmental conditions influence both vector populations and human exposure, and therefore strongly shape patterns of disease.
 
 By combining environmental data, spatial epidemiology, entomology, and serological indicators of exposure, this work aims to better understand how ecological systems produce vector-borne disease risk.
 
@@ -49,11 +49,11 @@ Studies of mosquito ecology and other vector systems, including field entomology
 
 ### Human exposure to vectors
 
-Research using **serological markers such as antibodies to mosquito saliva** to measure exposure to mosquito bites and other vectors.
+Research using serological markers such as antibodies to mosquito saliva to measure exposure to mosquito bites and other vectors.
 
 ### Serological evidence of infection
 
-Serological surveys provide insights into **population-level exposure to vector-borne pathogens**, revealing patterns of past infection that may not be visible in routine surveillance data.
+Serological surveys provide insights into population-level exposure to vector-borne pathogens, revealing patterns of past infection that may not be visible in routine surveillance data.
 
 ### Disease patterns and transmission
 
@@ -162,7 +162,7 @@ Rijal K.R., Adhikari B., Ghimire B., Dhungel B., Pyakurel U.R., Shah P., Bastola
 *Infectious Diseases of Poverty*, 10: 52.  
 https://doi.org/10.1186/s40249-021-00837-0
 
-These studies link **environmental conditions, vector ecology, and human exposure** to patterns of infection and disease.
+These studies link environmental conditions, vector ecology, and human exposure to patterns of infection and disease.
 
 
 ---
