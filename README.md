@@ -98,11 +98,13 @@ https://doi.org/10.1016/j.actatropica.2023.106829
 
 These studies examine how **human antibody responses to mosquito saliva** can serve as biomarkers of exposure to vector bites and malaria or arbovirus transmission risk.
 
-#### Example map
+These studies examine how **human antibody responses to mosquito saliva** can serve as biomarkers of exposure to vector bites and malaria or arbovirus transmission risk.
 
-[![Exposure to Anopheles saliva](docs/posters/maps/AnophSaliva.png)](docs/posters/maps/pages/IgG_Anopheles.html)
+<p align="center">
+  <img src="figures/anopheles_saliva_map.png" width="650">
+</p>
 
-*Map of Anopheles mosquito exposure on the Thailand–Myanmar border. Map by Daniel M. Parker. Click the image to view the full interactive version.*
+*Spatial patterns of human exposure to Anopheles mosquito bites along the Thailand–Myanmar border based on antibody responses to mosquito salivary proteins.*
 
 
 ---
@@ -118,9 +120,9 @@ Parker D.M., Haileselassie W., Hailemariam T.S., Workenh A., Workineh S., Wang X
 *PLOS Neglected Tropical Diseases*.  
 https://doi.org/10.1371/journal.pntd.0013357
 
-#### Example figure
-
-[View Figure](https://github.com/parker-group/DireDawa_Seroepi/blob/main/figures/Figure1.pdf)
+<p align="center">
+  <img src="figures/dire_dawa_serology_fig1.png" width="650">
+</p>
 
 *Serological evidence of exposure to dengue, chikungunya, and Zika viruses in Dire Dawa, Ethiopia.*
 
