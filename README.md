@@ -23,15 +23,15 @@ Three related ideas motivate much of this work.
 
 ### 1. Vector ecology and human ecology intersect
 
-Vector-borne diseases emerge where **vector ecology overlaps with human ecology**.
+Vector-borne diseases emerge where vector ecology overlaps with human ecology.
 
 Understanding where mosquitoes and other vectors live, how they behave, and how humans move through those environments is essential for understanding transmission systems.
 
 ### 2. Measuring exposure to vectors is difficult
 
-Traditional entomological measures—such as mosquito counts or biting rates—are difficult to collect and often poorly represent the **true exposure experienced by individuals**.
+Traditional entomological measures—such as mosquito counts or biting rates—are difficult to collect and often poorly represent the true exposure experienced by individuals.
 
-For this reason, some of this work explores **immunological biomarkers of vector exposure**, such as antibodies to mosquito salivary proteins. These biomarkers offer a promising way to measure how frequently individuals are bitten by mosquitoes, although important questions remain about their sensitivity, specificity, and duration of response.
+For this reason, some of this work explores immunological biomarkers of vector exposure, such as antibodies to mosquito salivary proteins. These biomarkers offer a promising way to measure how frequently individuals are bitten by mosquitoes, although important questions remain about their sensitivity, specificity, and duration of response.
 
 ### 3. Environmental drivers shape transmission systems
 
