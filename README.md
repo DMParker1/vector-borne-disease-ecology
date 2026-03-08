@@ -98,6 +98,13 @@ https://doi.org/10.1016/j.actatropica.2023.106829
 
 These studies examine how **human antibody responses to mosquito saliva** can serve as biomarkers of exposure to vector bites and malaria or arbovirus transmission risk.
 
+#### Example map
+
+[![Exposure to Anopheles saliva](docs/posters/maps/AnophSaliva.png)](docs/posters/maps/pages/IgG_Anopheles.html)
+
+*Map of Anopheles mosquito exposure on the Thailand–Myanmar border. Map by Daniel M. Parker. Click the image to view the full interactive version.*
+
+
 ---
 
 ### Serological surveillance of vector-borne pathogens
@@ -110,6 +117,12 @@ Parker D.M., Haileselassie W., Hailemariam T.S., Workenh A., Workineh S., Wang X
 **High seroprevalence of antibodies to dengue, chikungunya, and Zika viruses in Dire Dawa, Ethiopia: a cross-sectional survey.**  
 *PLOS Neglected Tropical Diseases*.  
 https://doi.org/10.1371/journal.pntd.0013357
+
+#### Example figure
+
+[View Figure](https://github.com/parker-group/DireDawa_Seroepi/blob/main/figures/Figure1.pdf)
+
+*Serological evidence of exposure to dengue, chikungunya, and Zika viruses in Dire Dawa, Ethiopia.*
 
 ---
 
