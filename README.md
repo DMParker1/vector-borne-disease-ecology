@@ -103,7 +103,9 @@ Code and analysis:
 These studies examine how **human antibody responses to mosquito saliva** can serve as biomarkers of exposure to vector bites and malaria or arbovirus transmission risk.
 
 <p align="center">
-  <img src="figures/anopheles_saliva_map.png" width="650">
+  <img src="figures/anopheles_saliva_map.png"
+       alt="Paired wet- and dry-season maps of a Thailand–Myanmar border village showing spatial variation in human IgG responses to Anopheles mosquito saliva, mosquito biting rates, and locations of IgG hotspots and malaria-infected mosquitoes."
+       width="650">
 </p>
 
 *Map indicating human IgG responses to **Anopheles mosquito saliva** for a study village during the **wet season (left)** and **dry season (right)** along the Thailand–Myanmar border. The smoothed layer represents relative intensities of IgG responses, ranging from **low (dark blue)** to **medium (yellow)** to **high (dark red)**. Houses are shown as grey points, and clusters of neighbors with higher-than-expected IgG values are indicated by green squares. Human biting rates of primary malaria vectors at mosquito catch sites are shown as **dark orange graduated cylinders**. Sites where one or more primary vector mosquitoes were found carrying **malaria sporozoites** are marked with a **black cross**.  See: Ya-Umphan P. et al. (2017) *Use of an Anopheles salivary biomarker to assess malaria transmission risk along the Thailand–Myanmar border*. Journal of Infectious Diseases 215(3):396–404.  
