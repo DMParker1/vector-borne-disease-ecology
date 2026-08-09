@@ -129,7 +129,9 @@ https://github.com/parker-group/DireDawa_Seroepi
 
 
 <p align="center">
-  <img src="figures/dire_dawa_serology_fig1.png" width="650">
+  <img src="figures/dire_dawa_serology_fig1.png"
+       alt="Two bar charts showing age-specific seroprevalence of chikungunya, dengue, and Zika in Dire Dawa, Ethiopia. IgG seroprevalence is substantially higher than IgM and generally increases with age, particularly for dengue."
+       width="650">
 </p>
 
 *Age-specific seropositivity for **dengue, chikungunya, and Zika viruses** in Dire Dawa, Ethiopia. The **top panels show IgG seropositivity**, reflecting cumulative exposure to these arboviruses over time. The **bottom panels show IgM seropositivity**, indicating evidence of more recent infection. Age-stratified serological profiles provide insight into the **historical circulation and transmission dynamics of arboviruses**, particularly in settings where routine surveillance and laboratory confirmation are limited. See: Parker D.M. et al. (2025) *High seroprevalence of antibodies to dengue, chikungunya, and Zika viruses in Dire Dawa, Ethiopia: a cross-sectional survey.* PLOS Neglected Tropical Diseases.  
